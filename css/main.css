@@ -1,3 +1,10 @@
 body{
     background-color: rgb(241, 7, 7)000;
 }
+p{
+    color: red;
+}
+
+h2{
+    font-size: 50px;
+}
